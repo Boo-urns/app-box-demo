@@ -1,0 +1,6 @@
+{
+  "name": "app-box-layout",
+  "short_name": "app-box-layout",
+  "start_url": "/",
+  "display": "standalone"
+}
